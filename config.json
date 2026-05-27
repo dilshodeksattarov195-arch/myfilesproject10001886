@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservync",
+        "uuid": 12662604,
+        "checksum": "vnkcr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
